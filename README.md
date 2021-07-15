@@ -18,7 +18,7 @@ In completing this project, in which I was tasked with developing the applicatio
     
 ## Installation
     
-To use the Budget Tracker, clone the repository by running "git clone `git@github.com:the64man1/Budget_Tracker.git`' on your console. Then use the command 'npm install' to install the dependencies. Then you can run the command 'npm start' to begin using the Workout Tracker on your port localhost:3000. Sample data is included in the seeders/seed.js file, which can be populated using the command 'npm run seed'.
+To use the Budget Tracker, clone the repository by running "git clone `git@github.com:the64man1/Budget_Tracker.git`' on your console. Then use the command 'npm install' to install the dependencies. Then you can run the command 'npm start' to begin using the Workout Tracker on your port localhost:3000.
 
 Note: As the Budget Tracker uses MongoDB for database purposes, users must have MongoDB installed properly on the local device for the application to work locally.
 
