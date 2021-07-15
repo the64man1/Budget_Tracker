@@ -22,7 +22,6 @@ To use the Budget Tracker, clone the repository by running "git clone `git@githu
 
 Note: As the Budget Tracker uses MongoDB for database purposes, users must have MongoDB installed properly on the local device for the application to work locally.
 
-![Fitness Tracker](https://user-images.githubusercontent.com/74144055/125009367-0ca01c80-e02a-11eb-9f14-b0475f7306de.png)
 
 ## Usage
     
