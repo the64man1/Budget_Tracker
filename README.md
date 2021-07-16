@@ -7,6 +7,8 @@ This application allows users to track their budget by adding expenses and reven
 
 In completing this project, in which I was tasked with developing the application into a progressive web app to allow for offline functionality, I learned how to make use of IndexDb for storing of data in the browser while offline, how to use Webpack to develop bundled Javascript code to maximize performance and build a manifest.json file for saving things, and how to use a service worker to store data in the broswer cache.
    
+![Budget Tracker](https://user-images.githubusercontent.com/74144055/125882667-54e4f1eb-41f6-4ba1-9ade-4b3c3d720eac.png)   
+   
 ## Table of Contents
     
 - [Installation](#installation)
